@@ -1,4 +1,4 @@
-# AI Task Management Agent
+# AI 12-Week Planner
 
 Framework asystenta osobistego opartego na AI do zarządzania zadaniami, projektami i celami życiowymi z wykorzystaniem metodologii 12-Week Year.
 
