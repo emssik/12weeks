@@ -2,6 +2,12 @@
 
 Framework asystenta osobistego opartego na AI do zarządzania zadaniami, projektami i celami życiowymi z wykorzystaniem metodologii 12-Week Year.
 
+# Trafiłeś lub trafiłaś tu przypadkiem?
+
+Zapraszam na mój mailing:
+
+https://danielroziecki.com/mailing-ai/
+
 ## Co to jest?
 
 To szablon/framework do budowania spersonalizowanego asystenta AI, który pomaga w:
